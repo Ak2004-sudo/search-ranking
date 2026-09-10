@@ -1,0 +1,40 @@
+q9	p1	how does BERT work	Machine learning is a subset of artificial intelligence that enables systems to learn from data.
+q9	p2	how does BERT work	Neural networks are computational models inspired by the human brain with layers of connected nodes.
+q9	p3	how does BERT work	Text classification assigns predefined categories to text using algorithms like SVM or BERT.
+q9	p4	how does BERT work	Gradient descent is an optimization algorithm that minimizes loss by updating weights iteratively.
+q9	p5	how does BERT work	The transformer architecture uses self-attention mechanisms to process sequences in parallel.
+q9	p6	how does BERT work	Learning to rank models optimize ranking metrics like NDCG using pairwise or listwise approaches.
+q9	p7	how does BERT work	Natural language processing enables computers to understand and generate human language.
+q9	p8	how does BERT work	Supervised learning uses labeled data while unsupervised learning finds hidden patterns without labels.
+q9	p9	how does BERT work	BERT is a bidirectional transformer pre-trained on masked language modeling and next sentence prediction.
+q9	p10	how does BERT work	Information retrieval is the process of finding relevant documents from a large collection given a query.
+q9	p11	how does BERT work	The weather today is sunny with a high of 75 degrees Fahrenheit in the afternoon.
+q9	p12	how does BERT work	Cooking pasta requires boiling water and adding salt before putting in the noodles.
+q9	p13	how does BERT work	Football is a sport played between two teams of eleven players on a rectangular field.
+q9	p14	how does BERT work	The stock market saw gains today as tech stocks rose following positive earnings reports.
+q9	p15	how does BERT work	A recipe for chocolate cake includes flour, cocoa powder, eggs, butter, and sugar.
+q9	p16	how does BERT work	Deep learning uses multiple layers of neural networks to learn hierarchical representations.
+q9	p17	how does BERT work	Random forests combine multiple decision trees to improve prediction accuracy and reduce overfitting.
+q9	p18	how does BERT work	Support vector machines find the optimal hyperplane that separates classes with maximum margin.
+q9	p19	how does BERT work	Word embeddings represent words as dense vectors capturing semantic relationships between terms.
+q9	p20	how does BERT work	Backpropagation computes gradients by applying the chain rule through the network layers.
+q10	p1	what is information retrieval	Machine learning is a subset of artificial intelligence that enables systems to learn from data.
+q10	p2	what is information retrieval	Neural networks are computational models inspired by the human brain with layers of connected nodes.
+q10	p3	what is information retrieval	Text classification assigns predefined categories to text using algorithms like SVM or BERT.
+q10	p4	what is information retrieval	Gradient descent is an optimization algorithm that minimizes loss by updating weights iteratively.
+q10	p5	what is information retrieval	The transformer architecture uses self-attention mechanisms to process sequences in parallel.
+q10	p6	what is information retrieval	Learning to rank models optimize ranking metrics like NDCG using pairwise or listwise approaches.
+q10	p7	what is information retrieval	Natural language processing enables computers to understand and generate human language.
+q10	p8	what is information retrieval	Supervised learning uses labeled data while unsupervised learning finds hidden patterns without labels.
+q10	p9	what is information retrieval	BERT is a bidirectional transformer pre-trained on masked language modeling and next sentence prediction.
+q10	p10	what is information retrieval	Information retrieval is the process of finding relevant documents from a large collection given a query.
+q10	p11	what is information retrieval	The weather today is sunny with a high of 75 degrees Fahrenheit in the afternoon.
+q10	p12	what is information retrieval	Cooking pasta requires boiling water and adding salt before putting in the noodles.
+q10	p13	what is information retrieval	Football is a sport played between two teams of eleven players on a rectangular field.
+q10	p14	what is information retrieval	The stock market saw gains today as tech stocks rose following positive earnings reports.
+q10	p15	what is information retrieval	A recipe for chocolate cake includes flour, cocoa powder, eggs, butter, and sugar.
+q10	p16	what is information retrieval	Deep learning uses multiple layers of neural networks to learn hierarchical representations.
+q10	p17	what is information retrieval	Random forests combine multiple decision trees to improve prediction accuracy and reduce overfitting.
+q10	p18	what is information retrieval	Support vector machines find the optimal hyperplane that separates classes with maximum margin.
+q10	p19	what is information retrieval	Word embeddings represent words as dense vectors capturing semantic relationships between terms.
+q10	p20	what is information retrieval	Backpropagation computes gradients by applying the chain rule through the network layers.
