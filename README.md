@@ -2,7 +2,7 @@
 
 Learning-to-rank system that improves over BM25 baseline using XGBoost LambdaMART trained on 2M+ MS MARCO query-document pairs, with an interactive Streamlit demo for exploring the model live.
 
-**Live Demo:** _add after deployment_
+**Live Demo:** https://search-ranking-mjbmqxdrzet6sulnvb5dq8.streamlit.app/
 
 ## Live Demo
 
